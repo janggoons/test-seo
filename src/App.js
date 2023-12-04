@@ -5,7 +5,7 @@ import Subject from "./components/Subject";
 import webImg from "./img/Margarita.webp";
 import htmlImg from "./img/MidoriSour.webp";
 import cssImg from "./img/Mojito.webp";
-import jsImg from "./img/peachCrush.webp";
+import jsImg from "./img/PeachCrush.webp";
 
 class App extends Component {
   constructor(props) {
